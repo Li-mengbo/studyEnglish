@@ -43,3 +43,23 @@ bowl 碗
 pours 倒出。。
 cereal 谷物 燕麦
 newspaper 报纸
+
+### 第三天 学校的一天
+```
+Frist day of school (19, 11, 1)
+ He goes to class. There an empty seat in front. He sits in the seat.He looks around. There are defferent people. He say 'Hi' to the girl next to him. she smiles. The teacher comes in. she closes the door. Everyone is silent.The frist day of school bengins.
+```
+[文章链接](https://www.eslfast.com/begin1/b1/b1002.htm)
+
+Tags: 用到单词
+
+empty 空的
+seat 位置
+in front 在他之前
+sit 坐
+around 四周
+defferernt 不同的
+smiles 微笑
+silent 安静
+bengins 开始
+
