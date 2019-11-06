@@ -47,7 +47,9 @@ newspaper 报纸
 ### 第三天 学校的一天
 ```
 Frist day of school (19, 11, 1)
- He goes to class. There an empty seat in front. He sits in the seat.He looks around. There are defferent people. He say 'Hi' to the girl next to him. she smiles. The teacher comes in. she closes the door. Everyone is silent.The frist day of school bengins.
+ He goes to class. There an empty seat in front. He sits in the seat.He looks around.
+There are defferent people. He say 'Hi' to the girl next to him. she smiles. 
+The teacher comes in. she closes the door. Everyone is silent.The frist day of school bengins.
 ```
 [文章链接](https://www.eslfast.com/begin1/b1/b1002.htm)
 
@@ -63,3 +65,40 @@ smiles 微笑
 silent 安静
 bengins 开始
 
+### 第四天 地板上的水
+```
+Water 0n the floor (19, 11, 2)
+ She is thirsty. She gets a glass of water. She begins of walk. She drops the glass. There is water in the floor.
+The puddle is big. she gits a mop. She wipes the water off. The floor is clean. She gets anther a glass of water.
+she drinks it. she very happy.
+
+```
+[文章链接](https://www.eslfast.com/begin1/b1/b1003.htm)
+
+Tags: 用到单词
+
+thirsty 口渴
+glass 杯子
+drops 把...打碎
+puddle 水坑
+mop 拖把
+wipes 擦
+
+### 第五天 保姆
+```
+ Babysitting (19, 11, 3)
+ Casey wants a new car. She needs money. She decides to babysit. She takes care of the child. 
+ She feeds him lunch. She reads him a story. The story is funny. The child laughs. Casey likes him. 
+ The child's mom comes home. The child kisses Casey. Casey leaves. She will babysit him again.
+```
+[文章链接](https://www.eslfast.com/begin1/b1/b1004.htm)
+
+Tags: 用到单词
+
+Babysitting 保姆
+decides 决定
+takes care 照顾
+lunch 午餐
+feeds 喂养
+funny 搞笑
+laughs 大笑
