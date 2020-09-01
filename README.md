@@ -102,3 +102,42 @@ lunch 午餐
 feeds 喂养
 funny 搞笑
 laughs 大笑
+### 第六天 医生
+```
+ A Doctor(19, 11, 4)
+ Sam is a dortor. He takes care of people. He smiles at them. He gives them medicine. 
+ He gives stickers to the younger patients.The younger patients like him. They see him when they are sick. 
+ He makes them feel better. This makes him happy. He loves his job. He goes home proud.
+
+ ```
+ [文章链接](https://www.eslfast.com/begin1/b1/b1005.htm)
+
+Tags: 用到单词
+
+medicine 药水
+gives stickers  贴标签
+sick 不舒服
+feel 感觉
+makes 使
+proud 自豪
+### 第七天 双胞胎
+```
+ Twins (19, 11, 5)
+ Jill and Jodi are twins. They look the same. But they act differently.Jill likes sports. 
+ She is good at basketball and golf.She is also loud. She talks all day.Jodi likes reading.
+ She can read 300 pages a day. She is also quiet. She does not like to talk. Jill and Jodi still love each other.
+
+ ```
+ [文章链接](https://www.eslfast.com/begin1/b1/b1005.htm)
+
+Tags: 用到单词
+twins 双胞胎
+act 做事
+differently 不同的
+golf 高尔夫
+basketball 篮球
+also 也是
+loud 吵闹
+talks 说
+still 仍然
+each other 相爱

@@ -25,3 +25,11 @@ she drinks it. she very happy.
  Casey wants a new car. She needs money. She decides to babysit. She takes care of the child. 
  She feeds him lunch. She reads him a story. The story is funny. The child laughs. Casey likes him. 
  The child's mom comes home. The child kisses Casey. Casey leaves. She will babysit him again.
+ A Doctor(19, 11, 4)
+ Sam is a dortor. He takes care of people. He smiles at them. He gives them medicine. 
+ He gives stickers to the younger patients.The younger patients like him. They see him when they are sick. 
+ He makes them feel better. This makes him happy. He loves his job. He goes home proud.
+ Twins (19, 11, 5)
+ Jill and Jodi are twins. They look the same. But they act differently.Jill likes sports. 
+ She is good at basketball and golf.She is also loud. She talks all day.Jodi likes reading.
+ She can read 300 pages a day. She is also quiet. She does not like to talk. Jill and Jodi still love each other.
